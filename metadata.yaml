@@ -1,0 +1,59 @@
+_repo: Elson-Grammar-School-Literature-v4_6963
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Elson, William H. (William Harris)
+    alias: Elson, William Harris
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '2278'
+    url: http://www.gutenberg.org/2009/agents/2278
+  - agent_name: Keck, Christine M.
+    gutenberg_agent_id: '4654'
+    url: http://www.gutenberg.org/2009/agents/4654
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: 'Paul revere''s ride -- The leap of Roushan beg -- The charge of
+  the light brigade at balaklava -- The diverting history of john gilpin -- How they
+  brought the good news from ghent to aix -- Incident of the french camp -- Herve
+  riel -- The bugle song -- The brook -- Song of the Chattahoochee -- The cataract
+  of lodore -- The bells -- Annabel lee -- Opportunity -- To a waterfowl -- The skylark
+  -- To a skylark -- The cloud -- Apostrophe to the ocean -- The destruction of sennacherib
+  -- The eve before waterloo -- Song of the greek bard -- Marco bozzaris -- The burial
+  of sir john moore -- Absalom -- Lochinvar -- Parting of marmion and douglas -- For
+  a'' that and a'' that -- Mercy, The Merchant of Venice -- The seven ages of man,
+  As You Like It -- Polonius''s advice; Man; Hamlet''s soliloquy, Hamlet -- Reputation,
+  Othello -- Wolsey and Cromwell, King Henry VIII -- Cassio and Iago, Othell -- Rip
+  van winkle -- The voyage -- The great stone face -- My visit to niagara -- A Descent
+  into the maelstrom -- The raven -- Evangeline: a tale of acadie -- The building
+  of the ship -- Snow-bound -- The ship builders -- The chambered nautilus -- The
+  deacon''s masterpiece; or the wonderful "one-hoss shay" -- Old ironsides -- The
+  boys -- The last leaf -- The vision of sir launfal -- Yussouf -- The marshes of
+  Glynn -- Regulus before the Roman senate, by Sargent -- The return of Regulus; Spartacus
+  to the gladiators, by Kellogg -- Merit before birth, by Sallust -- Rienzi''s address
+  to the Romans, by Mitford -- Emmet''s vindication, by Emmet -- King Phillip to the
+  white settler, by Everett -- The capture of Quebec, by Parkman -- England and her
+  colonies, by Burke -- The way to wealth, by Franklin -- Speech on a resolution to
+  put Virginia into a state of defence, by Henry -- The man without a country, by
+  Hale -- Love of country, by Scott -- Napoleon Bonaparte, by Phillips -- The true
+  grandeur of nations, by Sumner -- The evils of war, by Clay -- Peace, the policy
+  of a nation, by Calhoun -- The first settlement of new england; Supposed speech
+  of John Adams, by Webster -- South Carolina and the union, by Hayne -- Reply to
+  Hayne, by Webster -- Dedication speech at Gettysburg, by Lincoln -- Lincoln, the
+  great commoner, by Markham -- O Captain, my captain -- Farewell address, by Washington
+  -- The memory of our fathers -- The American flag -- Warren''s address at the battle
+  of bunker hill -- Columbus -- Recessional--a victorian ode -- A definition of a
+  gentleman.'
+title: Elson Grammar School Literature v4
+url: http://www.gutenberg.org/ebooks/6963
